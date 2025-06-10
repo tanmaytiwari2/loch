@@ -17,7 +17,6 @@ A modern, responsive landing page built with React and Tailwind CSS, featuring a
 - TypeScript
 - Tailwind CSS
 - Vite
-- Lucide Icons
 
 ## Project Structure
 
