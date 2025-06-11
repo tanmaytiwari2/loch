@@ -81,7 +81,7 @@ export const TestimonialSection: React.FC<TestimonialSectionProps> = ({
             <img className="w-12 h-12" alt="Vector" src="/vector2.svg" />
           </div>
           <div
-            className="w-full flex flex-row justify-start gap-x-6 overflow-x-auto overflow-y-hidden pb-4 no-scrollbar cursor-grab px-8 lg:px-0"
+            className="w-full flex flex-row justify-start gap-x-6 overflow-x-auto overflow-y-hidden pb-4 [scrollbar-width:none] [&::-webkit-scrollbar]:hidden cursor-grab px-8 lg:px-0"
             ref={carouselRef}
             onMouseDown={handleMouseDown}
             onMouseLeave={handleMouseLeave}

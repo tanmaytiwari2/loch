@@ -5,7 +5,9 @@ export const NOTIFICATION_CONSTANTS = {
   CARD_1_TEXT: "We'll be sending notifications to you here",
   CARD_2_TEXT: "Notify me when any wallets move more than",
   CARD_3_TEXT: "Notify me when any wallet dormant for",
-  CARD_3_INPUT_VALUE: "> 30 days",
+  CARD_3_INPUT_VALUE_1: "> 30 days",
+  CARD_3_INPUT_VALUE_2: "> 60 days",
+  CARD_3_INPUT_VALUE_3: "> 90 days",
   CARD_3_SUBTEXT: "becomes active",
 };
 
